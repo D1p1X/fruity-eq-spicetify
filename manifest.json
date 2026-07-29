@@ -1,0 +1,13 @@
+{
+  "name": "Fruity EQ",
+  "description": "A seven-band parametric EQ studio for Spicetify with DAW-style editing, local presets, A/B comparison and a distraction-free Studio view.",
+  "preview": "assets/eq-preview.png",
+  "readme": "README.md",
+  "branch": "main",
+  "icon": "<svg role='img' aria-label='Fruity EQ' width='100%' height='100%' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><rect x='1.6' y='1.6' width='20.8' height='20.8' rx='5.6' stroke='currentColor' stroke-width='1.5'/><path d='M4.5 14.6c2.25 0 2.25-5.25 4.5-5.25s2.25 8 4.5 8 2.25-10.65 4.5-10.65 2.25 6.4 4.5 6.4' stroke='currentColor' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+  "active-icon": "<svg role='img' aria-label='Fruity EQ active' width='100%' height='100%' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'><rect x='1.6' y='1.6' width='20.8' height='20.8' rx='5.6' fill='currentColor'/><path d='M4.5 14.6c2.25 0 2.25-5.25 4.5-5.25s2.25 8 4.5 8 2.25-10.65 4.5-10.65 2.25 6.4 4.5 6.4' fill='none' stroke='#0b1c25' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+  "subfiles": [],
+  "subfiles_extension": [],
+  "authors": [{ "name": "D1p1X", "url": "https://github.com/D1p1X" }],
+  "tags": ["equalizer", "parametric-eq", "audio", "presets", "daw"]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "fruity-eq-spicetify",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Fruity EQ — a seven-band parametric EQ Custom App for Spicetify.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/test-model.mjs",
+    "build:release": "node scripts/build-release.mjs",
+    "install:local": "node scripts/install.mjs",
+    "bridge:start": "node bridge/server.mjs",
+    "install-to-spicetify": "npm run install:local"
+  }
+}
